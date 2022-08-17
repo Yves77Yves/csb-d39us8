@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://yves77yves.github.io/csb-d39us8/static/js/main.d02e7eb2.chunk.js",
-    "main.js.map": "https://yves77yves.github.io/csb-d39us8/static/js/main.d02e7eb2.chunk.js.map",
+    "main.js": "https://yves77yves.github.io/csb-d39us8/static/js/main.605eee65.chunk.js",
+    "main.js.map": "https://yves77yves.github.io/csb-d39us8/static/js/main.605eee65.chunk.js.map",
     "runtime-main.js": "https://yves77yves.github.io/csb-d39us8/static/js/runtime-main.01fbb530.js",
     "runtime-main.js.map": "https://yves77yves.github.io/csb-d39us8/static/js/runtime-main.01fbb530.js.map",
     "static/js/2.a5d7f715.chunk.js": "https://yves77yves.github.io/csb-d39us8/static/js/2.a5d7f715.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.01fbb530.js",
     "static/js/2.a5d7f715.chunk.js",
-    "static/js/main.d02e7eb2.chunk.js"
+    "static/js/main.605eee65.chunk.js"
   ]
 }
